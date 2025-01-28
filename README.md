@@ -54,7 +54,7 @@ The `website_list/` folder includes the lists of all 200,000 websites analyzed i
 - **Exploration:**
   Use the country-specific files in `website_list/` to explore the top websites analyzed in this study.
 - **Data Access:**
-  Due to the dataset's size and storage constraints, if you wish to access the full dataset, please contact us via email at **[example_email@domain.com](mailto:example_email@domain.com)**.
+  Due to the dataset's size and storage constraints, if you wish to access the full dataset, please contact us via email at **[masudul.bhuiyan@cispa.de](mailto:masudul.bhuiyan@cispa.de)**.
 
 ---
 
@@ -78,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🖥️ **GitHub Pages**
-Explore an interactive dashboard of the dataset and key findings on our [GitHub Pages](https://your_username.github.io/digital-disparities-www25/).
+Explore an interactive dashboard of the dataset and key findings on our [GitHub Pages](https://kal-purush.github.io/digital-disparities-www25/).
 
 ---
 
