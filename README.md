@@ -1,4 +1,4 @@
-![Digital Disparities Banner](https://raw.githubusercontent.com/username/repo-name/branch-name/path-to-image/banner.png)
+![Digital Disparities Banner](https://imgur.com/a/0WKdjv4)
 
 # Digital Disparities: A Comparative Web Measurement Study
 
