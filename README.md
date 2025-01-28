@@ -1,4 +1,5 @@
 ![Digital Disparities Banner](https://imgur.com/a/0WKdjv4)
+![screenshot](assest/banner.jpeg)
 
 # Digital Disparities: A Comparative Web Measurement Study
 
@@ -96,4 +97,3 @@ If you use this dataset or code, please cite:
 ---
 
 For inquiries or access to the full dataset, please email us at **[masudul.bhuiyan@cispa.de](mailto:masudul.bhuiyan@cispa.de)**.
-
