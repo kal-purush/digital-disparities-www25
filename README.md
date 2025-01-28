@@ -1,3 +1,5 @@
+![Digital Disparities Banner]([https://raw.githubusercontent.com/username/repo-name/branch-name/path-to-image/banner.png](https://github.com/kal-purush/digital-disparities-www25/blob/11bcb0e3c8ee930fcd95059b6731ee71fce0c2e7/banner))
+
 # Digital Disparities: A Comparative Web Measurement Study
 
 This repository contains the dataset, tools, and analysis for our research paper **"Digital Disparities: A Comparative Web Measurement Study Across Economic Boundaries"**, presented at WWW'25. The study explores differences in web development practices across developed and developing countries, focusing on web size, complexity, security, privacy, technology adoption, and performance optimization.
