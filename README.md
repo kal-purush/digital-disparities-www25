@@ -1,4 +1,3 @@
-![Digital Disparities Banner](https://imgur.com/a/0WKdjv4)
 ![screenshot](assest/banner.jpeg)
 
 # Digital Disparities: A Comparative Web Measurement Study
